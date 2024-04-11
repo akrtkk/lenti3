@@ -32,7 +32,9 @@ Lenti Terminal is released under the MIT license. See the LICENSE file for more 
 
 I hope this helps! Let me know if you have any questions on how I made this.
 # Please Feel Free to Report Issues. 👋
-
+# 
+# My Interests
+#
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
